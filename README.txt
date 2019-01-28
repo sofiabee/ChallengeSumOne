@@ -16,3 +16,5 @@ PARTE EM ROR
 	       sqlite3: 3.8.7.2
 	IDE utilizada: Notepad++
 	Basta rodar o server na pasta challenge e lá terá, como explicei em outro documento, basicamente apenas o layout, funcionando apenas submissão de novos livros e edição. A ideia dessa etapa do problema é mostrar como seria a visualização do cliente para input e outuput, porém a funcionalidade está em python, faltando a integração (também expliquei porque fiz isso no outro documento) 
+
+	Eu postei todas pastas visíveis do meu arquivo, porém as principais são as que ficam em challenge/app, config e db. Algumas não foram submetidas porque o GitHub identifica como escondidas. 
