@@ -6,7 +6,8 @@ PARTE EM PYTHON
 	Basta rodar o arquivo .py localizado na mesma pasta que fica o arquivo .txt
 
 	No arquivo cliente.txt ficam as informações sobre a lista de livros desejados bem como a regra de ordenação. O padrão para adicionar livro é 'Livro x-Título, Autor, Edição', sendo x o id do livro. 
-	O padrão para escolher ordenação é sempre Atributo direção, como 'Título ascendente'. Caso não queira ordenar, basta não adicionar nenhum atributo.
+	O padrão para escolher ordenação é sempre Atributo direção, como 'Título ascendente'. Caso não queira ordenar, basta não adicionar nenhum atributo. É importante que no arquivo cliente.txt todas as direções estejam em letra minúscula e espaçadas normalmente em vírgulas. 
+	É nessa parte que tá o código de fato, que faz rodar o serviço de ordenação. A parte em RoR é mais um registro de aprendizado!
 
 PARTE EM ROR
 
